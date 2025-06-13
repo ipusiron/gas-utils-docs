@@ -12,7 +12,6 @@ function countSectionChars() {
        DocumentApp.ParagraphHeading.HEADING3].includes(element.asParagraph().getHeading())
     ) {
       const headingPara = element.asParagraph();
-      const headingLevel = headingPara.getHeading();
 
       // 見出し自体の文字数もカウント
       let blockCharCount = headingPara.getText().replace(/\n/g, '').length;
