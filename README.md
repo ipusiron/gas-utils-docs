@@ -20,4 +20,4 @@ Googleドキュメントにおいて、Heading 1～3 の見出しを起点に、
 
 ## ライセンス
 
-MIT License
+[MIT License](LICENSE)
