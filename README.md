@@ -12,7 +12,7 @@
 詳しい仕様や使い方は、以下の記事をご参照ください：  
 [**Googleドキュメントで「セクションごとの文字数」を自動で数える方法【GAS活用編】**](https://akademeia.info/?p=42130)
 
-### exportHeadingsToNewDocument.gs
+### `exportHeadingsToNewDocument.gs`
 
 現在開いているGoogleドキュメントの「見出し」だけを階層インデント付きで抽出し、新しいGoogleドキュメントに出力します。
 出力されたGoogleドキュメントのURLは、実行ログに表示されます。
